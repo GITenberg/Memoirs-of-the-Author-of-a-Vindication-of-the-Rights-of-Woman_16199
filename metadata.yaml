@@ -1,0 +1,30 @@
+_repo: Memoirs-of-the-Author-of-a-Vindication-of-the-Rights-of-Woman_16199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Godwin, William
+    alias: Baldwin, Edward
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '380'
+    url: http://www.gutenberg.org/2009/agents/380
+    wikipedia: http://en.wikipedia.org/wiki/William_Godwin
+description: Reprod. en fac.-sim. de l'éd. de :London , J. Johnson, 1798
+gutenberg_issued: '2005-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Feminists -- Great Britain -- Biography'
+- !lcsh 'Wollstonecraft, Mary, 1759-1797'
+title: Memoirs of the Author of a Vindication of the Rights of Woman
+url: http://www.gutenberg.org/ebooks/16199
