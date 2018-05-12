@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/380
     wikipedia: http://en.wikipedia.org/wiki/William_Godwin
 description: Reprod. en fac.-sim. de l'éd. de :London , J. Johnson, 1798
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16199#Memoirs-of-the-Author-of-a-Vindication-of-the-Rights-of-Woman
 gutenberg_issued: '2005-07-04'
 gutenberg_type: Text
 identifiers:
